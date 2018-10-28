@@ -1,0 +1,32 @@
+﻿/*
+	arquivo criado apenas para vizualização da enumeração dos tokens que constam na linguagem L
+*/
+
+*Enumeracao das classes dos tokens da linguagem L
+
+
+1  - atribuição (=)
+2  - tipos de dados (string boolean byte integer)
+3  - comando if (if)
+4  - comando else (else)
+5  - comando repetição (while) 
+6  - comando leitura (readln )
+7  - comando escrita (write	writeln)
+8  - abre parenteses ( '(' )
+9  - fecha parenteses ( ')' )
+A - operador p5 ( > < <> >= <= ==)
+B - separador (,)
+C - operador p4 (- + or)*
+D - abre chaves ({)
+E - fecha chaves (})
+F - valor ( num_decimal )
+G - const (palavra 'const')
+H - identificadores
+I - id/hexadecimal
+J - operador p3 ( and * / )
+K - delimitador comando (;)
+L - valor( val_logico)
+M - valor( num_hexa )
+N - valor( val_string )
+O - operador p2 ( not )
+
